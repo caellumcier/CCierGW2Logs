@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-224858-ajmw",
+      "title": "Eye Of Tyria",
+      "commanders": [
+        "Eye Of Tyria"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-19T03:48:58.000Z",
+      "dateEnd": "2026-11-19T05:01:37.458Z",
+      "dateLabel": "11/18/2026, 10:48:58 PM - 11/19/2026, 12:01:37 AM",
+      "url": "https://caellumcier.github.io/CCierGW2Logs/?report=20261118-224858-ajmw",
+      "publishedBy": "caellumcier",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261115-214914-ixkh",
       "title": "Dantes Infernö",
       "commanders": [
