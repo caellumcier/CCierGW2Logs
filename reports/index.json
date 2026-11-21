@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261120-210808-0vhj",
+      "title": "Boromir The Boldl, Eye Of Tyria",
+      "commanders": [
+        "Boromir The Boldl",
+        "Eye Of Tyria"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-21T02:08:08.000Z",
+      "dateEnd": "2026-11-21T03:55:53.798Z",
+      "dateLabel": "11/20/2026, 9:08:08 PM - 11/20/2026, 10:55:53 PM",
+      "url": "https://caellumcier.github.io/CCierGW2Logs/?report=20261120-210808-0vhj",
+      "publishedBy": "caellumcier",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261118-224858-ajmw",
       "title": "Eye Of Tyria",
       "commanders": [
