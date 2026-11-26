@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261125-210826-5f1p",
+      "title": "Dantes Ínferno",
+      "commanders": [
+        "Dantes Ínferno"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-26T02:08:26.000Z",
+      "dateEnd": "2026-11-26T02:47:14.665Z",
+      "dateLabel": "11/25/2026, 9:08:26 PM - 11/25/2026, 9:47:14 PM",
+      "url": "https://caellumcier.github.io/CCierGW2Logs/?report=20261125-210826-5f1p",
+      "publishedBy": "caellumcier",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261123-205844-rh78",
       "title": "Kaladín Stormríder",
       "commanders": [
