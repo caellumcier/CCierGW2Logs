@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261127-211552-7erh",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-28T02:15:52.000Z",
+      "dateEnd": "2026-11-28T03:20:03.649Z",
+      "dateLabel": "11/27/2026, 9:15:52 PM - 11/27/2026, 10:20:03 PM",
+      "url": "https://caellumcier.github.io/CCierGW2Logs/?report=20261127-211552-7erh",
+      "publishedBy": "caellumcier",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261125-210826-5f1p",
       "title": "Dantes Ínferno",
       "commanders": [
